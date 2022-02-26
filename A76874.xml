@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy fight in Ireland: between, the Lord Deputies forces, and the Earl of Castlehaven's; wherein, were 1300 kild and taken prisoners; the whole army routed, and all their ordnance, ammunition, bag and baggage taken. Also, Major General Masseys advance into Brunt Island, against the Lord Generals forces, the manner of the ordnance playing for three days together: and a perfect narrative of the proceedings of both armies. Together, with Major Ceneral [sic] Montgomery's advance westward, and what happened upon our forces march to meet him. Published according to Order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76874</idno>
+            <idno type="STC">Wing B3247</idno>
+            <idno type="STC">Thomason E632_9</idno>
+            <idno type="STC">ESTC R206456</idno>
+            <idno type="EEBO-CITATION">99865613</idno>
+            <idno type="PROQUEST">99865613</idno>
+            <idno type="VID">165873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76874)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165873)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 97:E632[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy fight in Ireland: between, the Lord Deputies forces, and the Earl of Castlehaven's; wherein, were 1300 kild and taken prisoners; the whole army routed, and all their ordnance, ammunition, bag and baggage taken. Also, Major General Masseys advance into Brunt Island, against the Lord Generals forces, the manner of the ordnance playing for three days together: and a perfect narrative of the proceedings of both armies. Together, with Major Ceneral [sic] Montgomery's advance westward, and what happened upon our forces march to meet him. Published according to Order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W. for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 16th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massey, Edward, --  Sir, 1619?-1674?</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165873:1" rendition="simple:additions"/>
+            <p>A BLOUDY FIGHT IN IRELAND: BETWEEN, The Lord Deputies Forces, and the Earl of <hi>Caſclehaven's;</hi> Wherein, were 1300 kild and taken priſoners; the whole Army routed, and all their Ordnance, Ammunition, Bag and Baggage taken.</p>
+            <p>
+               <hi>ALSO,</hi> Major General Maſſeys advance into Brunt Iſland, againſt the Lord Generals Forces, the manner of the Ordnance playing for three days together: And a perfect Narrative of the proceedings of both Armies.</p>
+            <p>
+               <hi>TOGETHER,</hi> With Major Ceneral Montgomery's advance Weſtward, and what happened upon our Forces march to meet him.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <add> June. 16<hi rend="sup">th.</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed by <hi>R.W.</hi> for <hi>George Horton.</hi> 1651</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165873:2"/>
+            <pb n="1" facs="tcp:165873:2"/>
+            <head>The perſect Copies of ſeveral remark<g ref="char:EOLhyphen"/>ble Letters, ſent from very emi<g ref="char:EOLhyphen"/>nent perſons in Scotland.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Know your expectations are much raiſed concerning us; all ears are greedy to hear ſomething from hence, that may give reſt to their diſ-ſetled hopes. But it will be our wiſdom to reflect upon former experiences; It was never better with us, then when we were ſtript of al human advantages, and in a ſubmiſſive poſture of waiting upon God. That hath been our old Refuge in all our ſtraits, and we alwayes found it to be of bleſſed uſe. It may not ſeem ſtrange to any, that we are exerciſed with difficulties and diſapointments; Thereby God hath maniſeſted forth his glory, &amp; accompliſhed his great deſines. Some haſty ſpirits may think it too too late, ere we enter upon Action: But to ſuch we ſay, that we have learnt to hang upon our God, and to obſerve his Providences. When the Enemies motion gives us an opportunity, we ſhall not be backward to make
+<pb n="2" facs="tcp:165873:3" rendition="simple:additions"/>uſe of it. We have received very credible information, that they are very near unto ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me ſudden Atempt; The com<g ref="char:EOLhyphen"/>mon fame is for <hi>England;</hi> but we cannot tel what to judge of it. Their Parliament yet continues; nothing of moment hath been produced; A late Act is put forth, for the bring<g ref="char:EOLhyphen"/>ing in often thouſand Bowles of meal into their stores at Sterlin. There is much endeavouring to repeal the Act of Claſſes; but it is not effected; the K. is unwilling to diſoblige any P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y; or to doe that which may occaſion Factions and Animoſities. Beſides the Levies that are going forwardin the North, they are buſie in raiſing men in the Weſt to re<g ref="char:EOLhyphen"/>cruit their Army. We have at laſt condeſcended to return their Records unto them; They would have done us little good, and ſome blemiſh might have lien upon us, they pre<g ref="char:EOLhyphen"/>tending a breach of promiſe. We are very ſenſible of little miſcarriages, though their dealings towards us are very unhandſome. Yet, we believe that Wariſton will not again return unto them, he diſ-reliſheth their preſent conjunction and deſigns; and he will either retire into ſome corner within our Quarters, or elſe get a paſs for Foragin parts, Col. <hi>Cowper a Nottinghamſhire</hi> Cavaleir, is gone unto the Enemy, and they have bestowed a Regiment upon him, Colonel Alured is alſo commanded hither out of Galloway and the horſe that were Eaſtward at Dunbar, &amp;c. are come to Edinburgh, and are in their Tents between Edinburgh and Leith. The Enemy contiruis yet in their Leaguer in Sterlin-Park: they are ſtill raiſing men Northward, and alſo as many as they can from the Weſt; which ſpeaks as if they intended a party for the ſecurity of Sterlin, and their Body for England,</p>
+            <closer>
+               <dateline>Edinburgh, <date>June 5. 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:165873:3"/>
+            <head>The true Copy of a Letter, from an Eminent Com<g ref="char:EOLhyphen"/>mander in the Army.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SOme few days ſince, a party of <hi>Scots</hi> horſe (a<g ref="char:EOLhyphen"/>bout a thouſand in number) fell into ſome of our out quarters, and took divers horſe, and ſome few priſoners; Whereupon, we having about 60 Wa<g ref="char:EOLhyphen"/>gons out; which were ſent with a ſmall Convoy to carry proviſions to <hi>Boyhal,</hi> we were doubtful leſt thoſe horſe ſhould have notice of them, and ſo ſur<g ref="char:EOLhyphen"/>prize them: Hereupon, by order from the Gene<g ref="char:EOLhyphen"/>ral, ſome Regiments were appointed to be drawn out, to ſecure the ſaid Cariages, in caſe the Enemy ſhould attempt any thing againſt them; but before they had marcht many miles, they met the Wagons returning, having ſafely delivered the proviſions: But the Enemies deſigne was againſt <hi>Conworth,</hi> where they took a whole Troop of Dragoons horſe which they found grazing without any Guard; but the Captain and his men are all in ſafety. The King of <hi>Scots</hi> is ſtill at <hi>Sterling,</hi> where there is a Commit<g ref="char:EOLhyphen"/>tee of War continually ſitting. They are ſtill pur<g ref="char:EOLhyphen"/>ging the Officers of their Army, and have put out the Earl of <hi>Wems,</hi> and put in a notorious Cavleir to command in his place. <hi>Middletons</hi> additional for<g ref="char:EOLhyphen"/>ces are not yet come up, till when, it is conceived, that <hi>Leſley</hi> will not march with the <hi>Van,</hi> leſt they ſhould leave thoſe parts too naked. They have not hitherto made any attempt againſt us, but if our forces uſe means to invite them to engage, they will have one trick or other to divert it.
+<pb n="4" facs="tcp:165873:4"/>There is great want of money amongſt the <hi>Scots,</hi> and Committees ſit in each County to collect Aſſeſſe<g ref="char:EOLhyphen"/>ments, but the people are very backward in their payment. The King and Parliament have agreed to nul the former Act againſt Malignants, and conclu<g ref="char:EOLhyphen"/>ded that the name of Malignant ſhould be buried in Oblivion; and do take in thoſe Cavaleirs now, that formerly were made uncapable by that Act. The Town of <hi>Dundee</hi> hath contributed largely to their Kings aſſiſtance, and given him a very ſtately Tent, and ſixe Braſs peeces of Ordnance; and have alſo at their own charges, raiſed him a compleat Regi<g ref="char:EOLhyphen"/>ment of horſe. <hi>Maſſey</hi> is very active, and hath in<g ref="char:EOLhyphen"/>vented divers Fire-works, and other warlike En<g ref="char:EOLhyphen"/>gines, and is alſo contriving to make ſeveral great Guns of Leather, to be always with the Horſe. He doth likewiſe employ men to make certain Fire<g ref="char:EOLhyphen"/>works to be carried on the top of their Pikes, to gall our horſe with, when they attempt to charge them, with divers other deſtructive inſtruments; thinking with the help of theſe, to deſtroy us; but our truſt is onely in the Lord, who is of power to abate their pride, aſſwage their malice, and con<g ref="char:EOLhyphen"/>found their devices.</p>
+            <closer>
+               <dateline>Edenburgh, <date>
+                     <hi>June</hi> the 7. 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Another Letter from a perſon of good Quality.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe laſt Lords day in the morning, we had an alarm in our quarters, from the <hi>Scots,</hi> whom
+<pb n="5" facs="tcp:165873:4"/>we heard were abroad with a ſtrong party; And we were inform'd, that they intended to ſeize upon our Magazine and Gariſon in <hi>Hamilton;</hi> whereupon it was concluded at a Councel of Officers, that Com<g ref="char:EOLhyphen"/>miſſary Gen. <hi>Whaley,</hi> with ſix Regiments of Horſe, ſhould ſecure that Gariſon, which he forth with did, and brought off all the men, Ordnance, and Ammunition, the Enemy facing them all the time, yet not daring to attempt any thing againſt them. The <hi>Scots</hi> have generally taken the Sacrament, and their King hath given Sir <hi>Robert Montgomery</hi> com<g ref="char:EOLhyphen"/>miſſion to raiſe forces in the Weſt, who came as far as <hi>Kilmenock,</hi> and <hi>Dumfrize,</hi> and took divers Dra<g ref="char:EOLhyphen"/>goon horſes which were negligently left at graſs, and ſome few priſoners; but hearing of Major Ge<g ref="char:EOLhyphen"/>neral <hi>Hariſons</hi> advance, he made no ſtay in thoſe parts. A party of our foot were deſign'd for <hi>Brunt</hi> Iſland, but the Enemy having intelligence thereof, <hi>Maſſey</hi> was commanded to ſecure that Iſland; Ad<g ref="char:EOLhyphen"/>miral <hi>Dean,</hi> hath continually for three days together made about 100 ſhot againſt the Royal Sconce, and received as many from them, but neither of them did much execution; We daily expect to engage with the Enemy, but there is ſmall probability they will be drawn to it, unleſs neceſſity compels them thereunto.</p>
+            <closer>
+               <dateline>Edenburgh, <date>
+                     <hi>June</hi> the 9. 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Copy of a Letter from <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Received yours of the 18 of <hi>May,</hi> and it is a great comfort to us, to hear your affairs
+<pb n="6" facs="tcp:165873:5"/>go on ſo proſperouſly in <hi>Scotland,</hi> for the Enemy reported here clean contrary. In my laſt, I certi<g ref="char:EOLhyphen"/>fied you, how the Lord Deputy <hi>Ireton</hi> had taken the field, and that he was marching with a gallant Army againſt the Rebels; who hearing of his ad<g ref="char:EOLhyphen"/>vance, declined engagement, and endeavoured to weary out our men with tedious marches; but they beeing old ſouldiers, and i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur'd to hard<g ref="char:EOLhyphen"/>neſs, were rather ſttengthened then tyr'd: Inſo<g ref="char:EOLhyphen"/>much, that <hi>Caſt ehaven</hi> (who commanded in chief) ſeeing they ſhould be neceſſitated to fight, choſe out his ground, and expected our approach: Our Army being all come up, they were drawn in<g ref="char:EOLhyphen"/>to a Body, and fell pell-mell upon the Enemy; the Fight continued very fierce for two hours, but at laſt the Rebels began to retreat, and give ground; which our men perceiving, perſued them ſo fierce<g ref="char:EOLhyphen"/>ly, that they totally routed their whole Army: We had not numbred the priſoners at the cloſe of my Letter, but I conceive there was about 500 kild upon the place, and ſome 7 or 800 taken pri<g ref="char:EOLhyphen"/>ſoners, amongſt whom were divers perſons of qua<g ref="char:EOLhyphen"/>lity, <hi>Caſtlehaven</hi> himſelf very narrowly eſcaping. We alſo took all their Ordnance, Ammunition, and Wa<g ref="char:EOLhyphen"/>gons, and perſued them (doing execution) to the Lady <hi>Dungerveys</hi> Houſe at the mouth of the <hi>Shan<g ref="char:EOLhyphen"/>non.</hi> My deſire to be the firſt that ſhould preſent you with theſe glad tidings, made me impatient to wait for particulars; but my next ſhall preſent you with a perfect Liſt of the Officers Names, and the number of men and Arms that were taken. Intreat<g ref="char:EOLhyphen"/>ing you to excuſe the haſte of</p>
+            <closer>
+               <signed>Your friend, <hi>H.O.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
